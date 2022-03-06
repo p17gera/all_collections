@@ -1,7 +1,7 @@
 ---
 ref: bioinformatics
 title: "Βιοπληροφορική"
-author: vlamos
+author: vlamos , vrahatis
 excerpt: "- Το μάθημα δεν διαθέτει περιγραφή -"
 code: HY-715
 semester: 6
